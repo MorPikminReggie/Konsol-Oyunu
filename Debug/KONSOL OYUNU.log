@@ -1,0 +1,7 @@
+﻿  KONSOL OYUNU.cpp
+C:\Users\pc\source\repos\KONSOL OYUNU\KONSOL OYUNU.cpp(32,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\pc\source\repos\KONSOL OYUNU\KONSOL OYUNU.cpp(130,35): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\pc\source\repos\KONSOL OYUNU\KONSOL OYUNU.cpp(179,35): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\pc\source\repos\KONSOL OYUNU\KONSOL OYUNU.cpp(228,35): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\pc\source\repos\KONSOL OYUNU\KONSOL OYUNU.cpp(278,35): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  KONSOL OYUNU.vcxproj -> C:\Users\pc\source\repos\KONSOL OYUNU\Debug\KONSOL OYUNU.exe
